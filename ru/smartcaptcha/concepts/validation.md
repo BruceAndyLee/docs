@@ -103,7 +103,7 @@ https://smartcaptcha.yandexcloud.net/validate?secret=<ключ_сервера>&i
     ```JSON
     {
         "status": "failed",
-        "message": "Authentication failed. Secret has not provided."
+        "message": "Authentication failed. Secret has not been provided."
     }
     ```
 
